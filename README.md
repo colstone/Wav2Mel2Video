@@ -4,9 +4,9 @@
 
 ## 环境配置
 
-1. 创建并激活虚拟环境（python 3.8）。
+1. （如果使用Conda）创建并激活虚拟环境。
 ```bash
-    conda create -n wav2mel2video python=3.8
+    conda create -n wav2mel2video python=3.10
 ```
 
 2. 安装依赖包。
